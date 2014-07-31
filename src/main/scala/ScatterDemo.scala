@@ -13,8 +13,8 @@ import org.jzy3d.plot3d.rendering.canvas.Quality
 
 class ScatterDemo extends AbstractAnalysis{
 
-	def init: Unit = {
-		val size: Int = 500000
+  def init: Unit = {
+    val size: Int = 500000
 
     val a: Float = 0.25.toFloat
 
